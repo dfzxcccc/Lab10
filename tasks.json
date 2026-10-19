@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "Зробити лабораторну",
+        "isCompleted": true,
+        "deadline": "2026-10-19"
+    },
+    {
+        "id": 2,
+        "title": "Зробити лабораторну 2",
+        "isCompleted": true,
+        "deadline": "2026-10-20"
+    }
+]
